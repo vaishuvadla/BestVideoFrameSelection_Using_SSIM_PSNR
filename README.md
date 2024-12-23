@@ -43,5 +43,4 @@
 
 ## Future Improvements
 - Multi-threading for faster processing.
-- Batch processing of multiple videos.
 - Enhanced pose tracking and additional image quality metrics.
