@@ -19,8 +19,7 @@
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/framefit.git
-    cd framefit
+    [git clone https://github.com/yourusername/framefit.git](https://github.com/vaishuvadla/BestVideoFrameSelection_Using_SSIM_PSNR.git)
     ```
 2. Install dependencies:
     ```bash
@@ -28,7 +27,7 @@
     ```
 3. Run the application:
     ```bash
-    python main.py
+    python Main.py
     ```
 
 ## How It Works
